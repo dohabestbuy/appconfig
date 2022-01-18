@@ -24,11 +24,6 @@
       "fit": "fill",
       "items": [
         {
-          "image": "https://i.imgur.com/ww3KkRo.jpeg",
-          "padding": 0.0,
-          "screen": "category"
-        },
-        {
           "padding": 0,
           "image": "https://i.imgur.com/veRgsZ5.jpeg",
           "category": "1878"
