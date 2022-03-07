@@ -4,7 +4,7 @@
 "showLogo":true,
 "layout":"logo",
 "showSearch":true,
-"showNotification":false,
+"showNotification":true,
 "image":"https://i.imgur.com/L6xzNwt.png",
 "showCart":true,
 "showMenu":true,
